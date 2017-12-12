@@ -1,6 +1,6 @@
 ### Celestial-classification
 
-##Overview
+## Overview
 
 Classification of the celestial objects (stars, galaxis and quasars) is an important issue in astrophysics. It provides a better undrestanding of the universe and its content. In particuar, using bright quasars as reference points, we can create the largest and most detailed three-dimensional map of the universe. 
 
