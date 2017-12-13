@@ -12,17 +12,17 @@ http://www.sdss.org/dr12/algorithms/magnitudes/
 http://www.astroml.org/examples/datasets/plot_sdss_filters.html
 
 This work is more like a comparison among different algorithms used for the classification of celestial objects in a pedagogical manner for the purpose of education thoses physics and data science students and resaerchers. We start with some data munging and features slection . We then apply the following algorothms:
-## 1. Logistic Regression
-  ### 1.1 cross validation logistic regression
-  ### 1.2 Decision boundary for logistic regression
-## 2. Support Vector Machine (SVM)
-## 3. KMeans
-## 4. KNN 
-## 5. Ensemble Classifications
-  ### 5.1 Random Forest Algorithm
-  ### 5.2. XGB Classifier (Extreme Gradient Boosting (XGBOOST))
-## 6. Decision Trees Classifier
-## 7.evaluation of the Random Forest classifier by bootstrap sampling
+## 1.Logistic Regression
+  ### 1.1.cross validation logistic regression
+  ### 1.2.Decision boundary for logistic regression
+## 2.Support Vector Machine (SVM)
+## 3.KMeans
+## 4.KNN 
+## 5.Ensemble Classifications
+  ### 5.1.Random Forest Algorithm
+  ### 5.2.XGB Classifier (Extreme Gradient Boosting (XGBOOST))
+## 6.Decision Trees Classifier
+## 7.Evaluation of the Random Forest classifier by bootstrap sampling
 
 For each model, we also evaluate the classfiers. The result can be found in the algorithm_comparison file.
 
